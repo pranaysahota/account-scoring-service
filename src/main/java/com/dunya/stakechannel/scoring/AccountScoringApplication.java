@@ -1,4 +1,4 @@
-package io.dl.account_scoring;
+package com.dunya.stakechannel.scoring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

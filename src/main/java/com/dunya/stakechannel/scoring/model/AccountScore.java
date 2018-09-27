@@ -1,4 +1,4 @@
-package io.dl.account_scoring.model;
+package com.dunya.stakechannel.scoring.model;
 
 public class AccountScore {
 	private int score;
